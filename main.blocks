@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="sHrY4sZ?%FS_5ywCp@KU">definir brilho</variable><variable id="Qmn8$4kV1a1DVvlNAM.S">nivel de luz</variable><variable id="`B(MuGm}KKpjW9Ua},1*">definir</variable></variables><block type="pxt-on-start" id="sU8e+6+ZD7:rAPs6^z]W" x="120" y="41"><statement name="HANDLER"><block type="device_show_leds" id="v#Pcyh=HV:J=Zs33+jtt"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="variables_set" id="OA1}Juao0:#i95rKw/zJ"><field name="VAR" id="sHrY4sZ?%FS_5ywCp@KU">definir brilho</field><value name="VALUE"><shadow type="math_number" id="n0V(T;kDtJo[2frK~Zi8"><field name="NUM">255</field></shadow></value></block></next></block></statement></block></xml>
